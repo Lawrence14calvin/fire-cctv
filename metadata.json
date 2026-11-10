@@ -1,0 +1,6 @@
+{
+  "name": "SimbaShield Fire & CCTV Solutions Kenya",
+  "description": "Licensed residential and commercial CCTV surveillance and fire alarm installation, maintenance, and compliance audits across Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
